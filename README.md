@@ -41,7 +41,7 @@ Customer-Churn-Prediction/
 ├── requirements.txt
 └── README.md
 Installation & Setup
-git clone https://github.com/Zoha Asghar/customer-churn-prediction.git
+git clone https://github.com/ZohaAsghar/customer-churn-prediction.git
 cd customer-churn-prediction
 pip install -r requirements.txt
 Run the Project
